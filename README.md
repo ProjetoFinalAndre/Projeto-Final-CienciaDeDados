@@ -32,10 +32,11 @@ Neste projeto, foram abordados os seguintes tópicos:
 6. **Correlação entre Variáveis:** Avaliação da relação entre duas variáveis numéricas por meio do coeficiente de correlação de Pearson.
 
 
-## 🧾 Base de Dados
+## 🧾 Base de Dados (diretorio ```\data```)
 
 - Fonte: [INEP / ENEM Microdados]([https://www.gov.br/inep/pt-br/assuntos/notas-e-resultados/microdados](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem))
 - Amostragem: Subconjunto representativo de registros (~10 mil linhas) para facilitar o processamento.
+
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
 
@@ -46,5 +47,12 @@ Neste projeto, foram abordados os seguintes tópicos:
 - seaborn
 - scipy
 - statsmodels
-- jupyter notebook (para visualização interativa)
 
+## Documentação ABNT 
+A documentação completa está disponível na pasta /documentacao, estruturada conforme as normas da ABNT, contendo:
+
+- Introdução
+- Análise de Dados
+- Conclusão e referências
+
+    Caminho: documentacao/projeto-final.pdf
