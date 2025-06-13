@@ -34,8 +34,7 @@ Neste projeto, foram abordados os seguintes tópicos:
 
 ## 🧾 Base de Dados
 
-- Fonte: [INEP / ENEM Microdados](https://www.gov.br/inep/pt-br/assuntos/notas-e-resultados/microdados)
-- Período: 2019 a 2023
+- Fonte: [INEP / ENEM Microdados]([https://www.gov.br/inep/pt-br/assuntos/notas-e-resultados/microdados](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem))
 - Amostragem: Subconjunto representativo de registros (~10 mil linhas) para facilitar o processamento.
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
