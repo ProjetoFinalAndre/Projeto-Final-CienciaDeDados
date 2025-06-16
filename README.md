@@ -14,7 +14,6 @@
 - Nome 4 (RA)
 
 
-
 ## 📌 Tema do Projeto
 **Análise do Desempenho Escolar no ENEM**
 
@@ -34,8 +33,7 @@ Neste projeto, foram abordados os seguintes tópicos:
 
 ## 🧾 Base de Dados
 
-- Fonte: [INEP / ENEM Microdados]([https://www.gov.br/inep/pt-br/assuntos/notas-e-resultados/microdados](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem))
-- Amostragem: Subconjunto representativo de registros (~10 mil linhas) para facilitar o processamento.
+- Dados Mokados
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
 
@@ -46,5 +44,5 @@ Neste projeto, foram abordados os seguintes tópicos:
 - seaborn
 - scipy
 - statsmodels
-- jupyter notebook (para visualização interativa)
+- Google collab
 
