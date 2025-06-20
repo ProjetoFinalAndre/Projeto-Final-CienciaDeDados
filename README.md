@@ -26,10 +26,10 @@ Neste projeto, foram abordados os seguintes tópicos:
 
 1. **Escalas de Medição:** Classificação dos dados em escalas nominal, ordinal e razão.
 2. **Medidas de Tendência Central:** Cálculo de média, mediana e moda das notas.
-3. **Medidas de Dispersão:** Análise de variância e desvio padrão.
-4. **Visualizações com Gráficos Estatísticos:** Criação de histogramas, boxplots, gráficos de barras e de dispersão para facilitar a interpretação visual dos dados.
-5. **Análise de Dados Categóricos:** Representação de frequências de categorias com gráficos de barras e setores.
-6. **Correlação entre Variáveis:** Avaliação da relação entre duas variáveis numéricas por meio do coeficiente de correlação de Pearson.
+3. **Medida de Dispersão:**  Avalia o quanto os dados variam em relação à média, utilizando métricas como desvio padrão e variância.
+4. **Teste de normalidade:** Verifica se a distribuição dos dados segue uma distribuição normal, utilizando testes como Shapiro-Wilk ou Kolmogorov-Smirnov.
+5. **Correlação entre Variáveis:** Avaliação da relação entre duas variáveis numéricas por meio do coeficiente de correlação de Pearson.
+6. **Visualizações com Gráficos Estatísticos:** Criação de histogramas, boxplots, gráficos de barras e de dispersão para facilitar a interpretação visual dos dados.
 
 
 ## 🧾 Base de Dados
