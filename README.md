@@ -34,7 +34,7 @@ Neste projeto, foram abordados os seguintes tópicos:
 
 ## 🧾 Base de Dados
 
-- Dados Mokados
+- Dados criados usando bibiliotecas python
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
 
