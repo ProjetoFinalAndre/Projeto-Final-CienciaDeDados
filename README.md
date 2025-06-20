@@ -8,10 +8,11 @@
 
 
 ## 👥 Integrantes
-- Nome 1 (RA)
-- Nome 2 (RA)
-- Nome 3 (RA)
-- Nome 4 (RA)
+
+- Felipe Cutiur do Santos
+- Jose Eduardo de Oliveira Junior
+- Joacir Peçanha Moreira Filho
+- Kelvim Lucas de Paula
 
 
 ## 📌 Tema do Projeto
